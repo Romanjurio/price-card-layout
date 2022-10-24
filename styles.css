@@ -5,11 +5,11 @@
 
 .cards {
   height: 100vh;
-  padding: 115px 132px;
   background-color: #141b1c;
   color: white;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .price-card {
