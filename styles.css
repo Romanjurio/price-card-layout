@@ -1,17 +1,3 @@
-* {
-  box-sizing: border-box;
-  font-family: "Montserrat", sans-serif;
-}
-
-.cards {
-  height: 100vh;
-  background-color: #141b1c;
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .price-card {
   overflow: hidden;
   position: relative;
@@ -142,6 +128,20 @@
   color: #ffffff;
   height: 25px;
   transform: rotate(45deg);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cards {
+  height: 100vh;
+  background-color: #141b1c;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */
