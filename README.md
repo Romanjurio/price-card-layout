@@ -2,7 +2,7 @@
 Price card Layout
 https://romanjurio.github.io/price-card-layout/
 
-Layout supports desktop version
+Layout supports (up to 1440px) desktop version
 
 The tech stack is:
 HTML5
